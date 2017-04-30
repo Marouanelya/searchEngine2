@@ -1,6 +1,6 @@
 package com.polytech.controllers;
 
-import com.polytech.business.models.Users;
+import com.polytech.models.Users;
 import com.polytech.business.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

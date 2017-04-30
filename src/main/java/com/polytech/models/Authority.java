@@ -1,4 +1,4 @@
-package com.polytech.business.models;
+package com.polytech.models;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

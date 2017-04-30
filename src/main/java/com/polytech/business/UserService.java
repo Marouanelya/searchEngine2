@@ -1,7 +1,7 @@
 package com.polytech.business;
 
-import com.polytech.business.models.Authority;
-import com.polytech.business.models.Users;
+import com.polytech.models.Authority;
+import com.polytech.models.Users;
 import com.polytech.repository.AuthorityRepository;
 import com.polytech.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;

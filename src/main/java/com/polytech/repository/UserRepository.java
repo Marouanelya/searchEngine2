@@ -1,6 +1,6 @@
 package com.polytech.repository;
 
-import com.polytech.business.models.Users;
+import com.polytech.models.Users;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

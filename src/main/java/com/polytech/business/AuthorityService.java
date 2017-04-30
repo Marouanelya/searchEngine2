@@ -1,6 +1,6 @@
 package com.polytech.business;
 
-import com.polytech.business.models.Authority;
+import com.polytech.models.Authority;
 import com.polytech.repository.AuthorityRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
